@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @netmico
-- 👀 I’m from a network engineer background and now learning DevOps 
-- 🌱 I have been using Terraform for 4 years now, building vpc on aws, Azure, and Gcp. I'm a big fan of Cloudflare and digital ocean.
-- 💞️ I'm looking to share my skils with the world, I have a great passion for DevOps and look forward to learning more from everyone else.
-- 📫 How to reach me ...
+Hi, I’m @netmico
+
+🔧 With a background in network engineering, I’m now diving into the world of DevOps.
+
+🌱 For 6 years, I’ve been mastering Terraform, Docker, Kubenetes, gitlab, github building VPCs on AWS, Azure, and GCP. Cloudflare and DigitalOcean are my go-to tools!
+
+💡 My goal is to share my knowledge, grow with the community, and fuel my passion for network and DevOps.
+
+📫 Feel free to reach out if you'd like to connect!
 
 <!---
 netmico/netmico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
