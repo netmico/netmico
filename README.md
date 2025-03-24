@@ -2,7 +2,7 @@ Hi, I’m @netmico
 
 🔧 With a background in network engineering, I’m now diving into the world of DevOps.
 
-🌱 For 6 years, I’ve been mastering Terraform, Docker, Kubenetes, gitlab, github building VPCs on AWS, Azure, and GCP. Cloudflare and DigitalOcean are my go-to tools!
+🌱 For 12 years, I’ve been mastering Terraform, Docker, Kubenetes, gitlab, github building VPCs on AWS, Azure, and GCP. Cloudflare and DigitalOcean are my go-to tools!
 
 💡 My goal is to share my knowledge, grow with the community, and fuel my passion for network and DevOps.
 
