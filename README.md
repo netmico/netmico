@@ -6,7 +6,7 @@ Hi, I’m @netmico
 
 💡 My goal is to share my knowledge, grow with the community, and fuel my passion for network and DevOps.
 
-📫 Feel free to reach out if you'd like to connect!
+📫 Feel free to reach out if you'd like to connect! @ netmico.com 
 
 <!---
 netmico/netmico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
